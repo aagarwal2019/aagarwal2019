@@ -1,6 +1,6 @@
 About me 👋
 
-
+Hey, i'm Avi Agarwal
 
 
 Here's a lot of stuff so you can get to know about me.
