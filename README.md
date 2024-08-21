@@ -1,7 +1,7 @@
 About me 👋
 
 
-**aagarwal2019/aagarwal2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here's a lot of stuff so you can get to know about me.
 
