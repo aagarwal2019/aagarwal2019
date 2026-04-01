@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:7B2FBE&height=130&section=header&animation=fadeIn" width="100%"/>
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Avi+Agarwal+%F0%9F%91%8B;Frontend+Developer+%40+FAU;Python+%26+JavaScript+Builder;Cinephile+%7C+Heat+Fan+%7C+Kendrick+Stan)](https://git.io/typing-svg)
 
@@ -105,7 +103,7 @@ const avi = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0d1117&height=100&section=footer" width="100%"/>
+![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 *"The best error message is the one that never shows up."* — Thomas Fuchs
 
