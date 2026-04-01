@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Avi+Agarwal+%F0%9F%91%8B;Frontend+Developer+%40+FAU;Python+%26+JavaScript+Builder;Cinephile+%7C+Heat+Fan+%7C+Kendrick+Stan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Avi+Agarwal+%F0%9F%91%8B;CS+Senior+%40+FAU;Frontend+Developer;Python+%26+JavaScript+Builder)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aviagarwal0530)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aagarwal2019)
@@ -13,27 +12,52 @@
 
 ## 🧠 About Me
 
-```ts
-const avi = {
-  name:       "Avi Agarwal",
-  school:     "Florida Atlantic University 🦉",
-  major:      "Computer Science",
-  role:       "Frontend Developer",
-  languages:  ["TypeScript", "JavaScript", "Python"],
-  interests:  ["Web Dev", "UI/UX", "Building cool things"],
+<div align="center">
 
-  offDuty: {
-    movies:   "🍿 Cinephile — always on the hunt for great films",
-    sports:   "🏀 Die-hard Miami Heat fan",
-    music:    "🎤 Hip-hop head — Kendrick Lamar is top tier",
-    gaming:   "🎮 PS5 — NBA 2K, GTA, Madden",
-    food:     "🍽️ Foodie — always trying something new",
-  },
+<table>
+<tr>
+<td valign="top" width="50%">
 
-  funFact:    "I have never been to Australia 😹",
-  pronouns:   "he/him",
-};
-```
+### 🧑‍💻 &nbsp; Profile
+| | |
+|---|---|
+| 🎓 | CS Senior @ FAU |
+| 💼 | Frontend Developer |
+| 🌎 | South Florida |
+| 💬 | he/him |
+| ⚡ | Never been to Australia 😹 |
+
+### 🎯 &nbsp; Currently
+| | |
+|---|---|
+| 📚 | Learning React & TypeScript |
+| 🔨 | Building cool things on GitHub |
+| 🎯 | Hunting for my first dev role |
+
+</td>
+<td valign="top" width="50%">
+
+### 🎮 &nbsp; Off-Duty
+| | |
+|---|---|
+| 🍿 | Cinephile — always on the hunt |
+| 🏀 | Die-hard Miami Heat fan |
+| 🎤 | Hip-hop — Kendrick is top tier |
+| 🎮 | PS5 — NBA 2K, GTA, Madden |
+| 🍽️ | Foodie — always trying new things |
+
+### 🛠️ &nbsp; Languages
+| | |
+|---|---|
+| ⚡ | JavaScript / TypeScript |
+| 🐍 | Python |
+| 🌐 | HTML & CSS |
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -99,6 +123,15 @@ const avi = {
 
 </div>
 
+---
+
+<div align="center">
+
+![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+
+*"The best error message is the one that never shows up."* — Thomas Fuchs
+
+</div>
 ---
 
 <div align="center">
