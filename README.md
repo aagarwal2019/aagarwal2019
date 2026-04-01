@@ -115,11 +115,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## Daily Quote
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aagarwal2019&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
