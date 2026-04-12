@@ -21,8 +21,8 @@
 ### 🧑‍💻 &nbsp; Profile
 | | |
 |---|---|
-| 🎓 | CS Senior @ FAU |
-| 💼 | Frontend Developer |
+| 🎓 | CS @ FAU |
+| 💼 | Currently looking for CS jobs |
 | 🌎 | South Florida |
 | 💬 | he/him |
 | ⚡ | Never been to Australia 😹 |
