@@ -103,8 +103,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aagarwal2019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagarwal2019&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=aagarwal2019&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aagarwal2019&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -158,15 +158,6 @@ Open to internships, junior/entry-level roles, and interesting projects — reac
 </div>
 
 ---
-
-<div align="center">
-
-![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
-
-*"The best error message is the one that never shows up."* — Thomas Fuchs
-
-</div>
-
 
 <div align="center">
 
