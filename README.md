@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Avi+Agarwal+%F0%9F%91%8B;CS+Graduate+%40+FAU;Frontend+Developer;Senior+%26+Technial+Analyst+@+SDPBC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Avi+Agarwal+%F0%9F%91%8B;CS+Graduate+%40+FAU;Frontend+Developer;Senior+%26+Technical+Analyst+@+SDPBC)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aviagarwal0530)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aagarwal2019)
@@ -103,14 +103,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=aagarwal2019&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aagarwal2019&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="./profile/stats.svg"/>
+<img height="180em" src="./profile/top-langs.svg"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aagarwal2019&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+![GitHub Streak](./profile/streak.svg)
 
 </div>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aagarwal2019&theme=tokyonight&no-frame=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](./profile/trophy.svg)
 
 </div>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aagarwal2019&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](./profile/activity-graph.svg)
 
 </div>
 
