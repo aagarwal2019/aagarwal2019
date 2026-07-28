@@ -21,8 +21,8 @@
 ### 🧑‍💻 &nbsp; Profile
 | | |
 |---|---|
-| 🎓 | CS @ FAU |
-| 💼 | Currently looking for CS jobs |
+| 🎓 | CS Graduate @ FAU |
+| 💼 | CS job at SDPBC Transportation East Services |
 | 🌎 | South Florida |
 | 💬 | he/him |
 | ⚡ | Never been to Australia 😹 |
