@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Avi+Agarwal+%F0%9F%91%8B;CS+Graduate+%40+FAU;Frontend+Developer;Senior+Technical+Analyst+@+SDPBC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Avi+Agarwal+%F0%9F%91%8B;CS+Graduate+%40+FAU;Frontend+Developer;Senior+%26+Technical+Analyst+@+SDPBC)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aviagarwal0530)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aagarwal2019)
 [![Profile Views](https://komarev.com/ghpvc/?username=aagarwal2019&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aagarwal2019)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge)
+![Open to New Opportunities](https://img.shields.io/badge/Open%20to%20New%20Opportunities-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -131,6 +131,20 @@
 <div align="center">
 
 ![Activity Graph](./profile/activity-graph.svg)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+  <img alt="github contribution grid snake animation" src="./profile/snake.svg" />
+</picture>
 
 </div>
 
