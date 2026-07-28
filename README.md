@@ -22,7 +22,7 @@
 | | |
 |---|---|
 | 🎓 | CS Graduate @ FAU |
-| 💼 | CS job at SDPBC Transportation East Services |
+| 💼 | SDPBC Transportation East Services |
 | 🌎 | South Florida |
 | 💬 | he/him |
 | ⚡ | Never been to Australia 😹 |
