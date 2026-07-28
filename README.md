@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aviagarwal0530)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aagarwal2019)
 [![Profile Views](https://komarev.com/ghpvc/?username=aagarwal2019&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aagarwal2019)
-![Open to New Opportunities](https://img.shields.io/badge/Open%20to%20New%20Opportunities-brightgreen?style=for-the-badge)
+![Working](https://img.shields.io/badge/Working-brightgreen?style=for-the-badge)
 
 </div>
 
